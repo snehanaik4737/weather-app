@@ -10,7 +10,7 @@
 ### _Following are the Screenshots for the reference_
 
 - **Landing Page**
-  ![Landing Page](https://medium.com/e8ba0a4e-84b6-4298-9139-738e12ff05da)
+  ![Landing Page](https://cdn-images-1.medium.com/max/1200/1*HloczYJCeMdPOhBK3pR6eQ.png)
 
 
 
